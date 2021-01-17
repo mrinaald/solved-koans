@@ -1,0 +1,257 @@
+* Thinking about ASSERTS
+    ~FILL-IN-THE-BLANKS~ has expanded your awareness.
+    ~ASSERT-TRUE~ has expanded your awareness.
+    ~ASSERT-FALSE~ has expanded your awareness.
+    ~TRUE-OR-FALSE~ has expanded your awareness.
+    ~UPCASE-DOWNCASE~ has expanded your awareness.
+    ~A-TRUE-ASSERTION~ has expanded your awareness.
+    ~A-FALSE-ASSERTION~ has expanded your awareness.
+
+* Thinking about NIL-FALSE-EMPTY
+    ~T-AND-NIL-ARE-OPPOSITES~ has expanded your awareness.
+    ~NIL-AND-EMPTY-LIST-ARE-THE-SAME-THING~ has expanded your awareness.
+    ~IN-LISP-MANY-THINGS-ARE-TRUE~ has expanded your awareness.
+    ~AND~ has expanded your awareness.
+    ~OR~ has expanded your awareness.
+
+* Thinking about EVALUATION
+    ~FUNCTION-NAMES~ has expanded your awareness.
+    ~NUMBERP~ has expanded your awareness.
+    ~EVALUATION-ORDER~ has expanded your awareness.
+    ~BASIC-COMPARISONS~ has expanded your awareness.
+    ~QUOTE~ has expanded your awareness.
+    ~LISTP~ has expanded your awareness.
+
+* Thinking about ATOMS-VS-LISTS
+    ~LIST-OR-ATOM~ has expanded your awareness.
+    ~THE-DUALITY-OF-NIL~ has expanded your awareness.
+    ~KEYWORDS~ has expanded your awareness.
+
+* Thinking about LET
+    ~LET~ has expanded your awareness.
+    ~LET-VERSUS-LET*~ has expanded your awareness.
+    ~LET-IT-BE-EQUAL~ has expanded your awareness.
+
+* Thinking about SCOPE-AND-EXTENT
+    ~SHADOWING~ has expanded your awareness.
+    ~BLOCK-RETURN-FROM~ has expanded your awareness.
+    ~LEXICAL-VARIABLES-CAN-BE-ENCLOSED~ has expanded your awareness.
+    ~DYNAMIC-VARIABLES-ARE-AFFECTED-BY-EXECUTION-PATH~ has expanded your awareness.
+
+* Thinking about BASIC-MACROS
+    ~SETF~ has expanded your awareness.
+    ~CASE~ has expanded your awareness.
+    ~SPECIAL-CASES-OF-CASE~ has expanded your awareness.
+    ~YOUR-OWN-CASE-STATEMENT~ has expanded your awareness.
+    ~LIMITS-OF-CASE~ has expanded your awareness.
+    ~COND~ has expanded your awareness.
+
+* Thinking about LISTS
+    ~HOW-TO-MAKE-LISTS~ has expanded your awareness.
+    ~CONS-TRUCTING-LISTS~ has expanded your awareness.
+    ~CAR-AND-CDR~ has expanded your awareness.
+    ~PUSH-POP~ has expanded your awareness.
+    ~APPEND-NCONC~ has expanded your awareness.
+    ~ACCESSING-LIST-ELEMENTS~ has expanded your awareness.
+    ~CONS-TRUCTING-IMPROPER-LISTS~ has expanded your awareness.
+    ~SLICING-LISTS~ has expanded your awareness.
+
+* Thinking about ARRAYS
+    ~BASIC-ARRAY-STUFF~ has expanded your awareness.
+    ~MAKE-YOUR-OWN-ARRAY~ has expanded your awareness.
+    ~ADJUSTABLE-ARRAY~ has expanded your awareness.
+    ~MAKE-ARRAY-FROM-LIST~ has expanded your awareness.
+    ~ROW-MAJOR-INDEX~ has expanded your awareness.
+
+* Thinking about VECTORS
+    ~VECTOR-BASICS~ has expanded your awareness.
+    ~LENGTH~ has expanded your awareness.
+    ~BIT-VECTOR~ has expanded your awareness.
+    ~BITWISE-OPERATIONS~ has expanded your awareness.
+    ~LIST-TO-BIT-VECTOR~ has expanded your awareness.
+
+* Thinking about MULTIPLE-VALUES
+    ~MULTIPLE-VALUES~ has expanded your awareness.
+    ~BINDING-AND-SETTING-MULTIPLE-VALUES~ has expanded your awareness.
+
+* Thinking about EQUALITY-DISTINCTIONS
+    ~EQ~ has expanded your awareness.
+    ~EQL~ has expanded your awareness.
+    ~EQUAL~ has expanded your awareness.
+    ~EQUALP~ has expanded your awareness.
+    = has expanded your awareness.
+    STRING= has expanded your awareness.
+    CHAR= has expanded your awareness.
+
+* Thinking about HASH-TABLES
+    ~MAKE-HASH-TABLE~ has expanded your awareness.
+    ~GETHASH~ has expanded your awareness.
+    ~HASH-TABLE-TEST~ has expanded your awareness.
+    ~HASH-TABLE-EQUALITY~ has expanded your awareness.
+    ~I-WILL-MAKE-IT-EQUALP~ has expanded your awareness.
+    ~MAKE-YOUR-OWN-HASH-TABLE~ has expanded your awareness.
+
+* Thinking about FUNCTIONS
+    ~CALL-A-FUNCTION~ has expanded your awareness.
+    ~SHADOW-A-FUNCTION~ has expanded your awareness.
+    ~OPTIONAL-PARAMETERS~ has expanded your awareness.
+    ~OPTIONAL-INDICATION~ has expanded your awareness.
+    ~REST-PARAMETER~ has expanded your awareness.
+    ~KEYWORD-PARAMETERS~ has expanded your awareness.
+    ~KEYWORD-INDICATION~ has expanded your awareness.
+    ~FUNKY-PARAMETERS~ has expanded your awareness.
+    ~LAMBDA~ has expanded your awareness.
+    ~LAMBDA-WITH-OPTIONAL-PARAMETERS~ has expanded your awareness.
+    ~LEXICAL-CLOSURES~ has expanded your awareness.
+    ~LEXICAL-CLOSURE-INTERACTIONS~ has expanded your awareness.
+    ~APPLY~ has expanded your awareness.
+    ~FUNCALL~ has expanded your awareness.
+
+* Thinking about STRINGS
+    ~WHAT-IS-A-STRING~ has expanded your awareness.
+    ~MULTILINE-STRING~ has expanded your awareness.
+    ~ESCAPES-IN-STRINGS~ has expanded your awareness.
+    ~SUBSTRINGS~ has expanded your awareness.
+    ~STRINGS-VERSUS-CHARACTERS~ has expanded your awareness.
+    ~CONCATENATING-STRINGS~ has expanded your awareness.
+    ~SEARCHING-FOR-CHARACTERS~ has expanded your awareness.
+    ~FINDING-SUBSTRINGS~ has expanded your awareness.
+
+* Thinking about STRUCTURES
+    ~MAKE-STRUCT~ has expanded your awareness.
+    ~STRUCT-DEFAULTS~ has expanded your awareness.
+    ~STRUCT-ACCESS~ has expanded your awareness.
+    ~STRUCTURE-INHERITANCE~ has expanded your awareness.
+    ~STRUCTURE-EQUALITY-AND-COPYING~ has expanded your awareness.
+
+* Thinking about ITERATION
+    ~DOLIST~ has expanded your awareness.
+    ~DOTIMES~ has expanded your awareness.
+    ~DO~ has expanded your awareness.
+    ~LOOP-BASIC-FORM~ has expanded your awareness.
+
+* Thinking about MAPCAR-AND-REDUCE
+    ~MAPCAR~ has expanded your awareness.
+    ~MAPCAR-LAMBDA~ has expanded your awareness.
+    ~MAP~ has expanded your awareness.
+    ~TRANSPOSITION~ has expanded your awareness.
+    ~REDUCE~ has expanded your awareness.
+    ~REDUCE-FROM-END~ has expanded your awareness.
+    ~REDUCE-INITIAL-VALUE~ has expanded your awareness.
+    ~INNER-PRODUCT~ has expanded your awareness.
+
+* Thinking about CONTROL-STATEMENTS
+    ~IF~ has expanded your awareness.
+    ~WHEN-UNLESS~ has expanded your awareness.
+    ~AND-SHORT-CIRCUIT~ has expanded your awareness.
+    ~OR-SHORT-CIRCUIT~ has expanded your awareness.
+
+* Thinking about LOOPS
+    ~LOOP-COLLECT~ has expanded your awareness.
+    ~LOOP-MULTIPLE-VARIABLES~ has expanded your awareness.
+    ~LOOP-IN-VERSUS-LOOP-ON~ has expanded your awareness.
+    ~LOOP-FOR-BY~ has expanded your awareness.
+    ~LOOP-COUNTING-BACKWARDS~ has expanded your awareness.
+    ~LOOP-LIST-BY~ has expanded your awareness.
+    ~LOOP-ACROSS~ has expanded your awareness.
+    LOOP-OVER-2~D-ARRAY~ has expanded your awareness.
+    ~LOOP-HASH-TABLE~ has expanded your awareness.
+    ~LOOP-STATISTICS~ has expanded your awareness.
+    ~LOOP-DESTRUCTURING~ has expanded your awareness.
+    ~LOOP-CONDITIONAL-EXECUTION~ has expanded your awareness.
+
+* Thinking about SCORING-PROJECT
+    ~SCORE-OF-AN-EMPTY-LIST-IS-ZERO~ has expanded your awareness.
+    SCORE-OF-A-SINGLE-ROLL-OF-5-IS-50 has expanded your awareness.
+    SCORE-OF-A-SINGLE-ROLL-OF-1-IS-100 has expanded your awareness.
+    SCORE-OF-MULTIPLE-1S-AND-5~S-IS-THE-SUM-OF-INDIVIDUAL-SCORES~ has expanded your awareness.
+    SCORE-OF-SINGLE-2S-3S-4S-AND-6~S-ARE-ZERO~ has expanded your awareness.
+    SCORE-OF-A-TRIPLE-1-IS-1000 has expanded your awareness.
+    SCORE-OF-OTHER-TRIPLES-IS-100~X~ has expanded your awareness.
+    ~SCORE-OF-MIXED-IS-SUM~ has expanded your awareness.
+
+* Thinking about FORMAT
+    ~FORMAT-BASIC~ has expanded your awareness.
+    ~FORMAT-AESTHETIC~ has expanded your awareness.
+    ~FORMAT-STANDARD~ has expanded your awareness.
+    ~FORMAT-RADIX~ has expanded your awareness.
+    ~FORMAT-ITERATION~ has expanded your awareness.
+    ~FORMAT-CASE~ has expanded your awareness.
+
+* Thinking about TYPE-CHECKING
+    ~TYPEP~ has expanded your awareness.
+    ~TYPE-OF~ has expanded your awareness.
+    ~OVERLAPPING-TYPES~ has expanded your awareness.
+    ~FIXNUM-VERSUS-BIGNUM~ has expanded your awareness.
+    ~SUBTYPEP~ has expanded your awareness.
+    ~LIST-TYPE-SPECIFIERS~ has expanded your awareness.
+    ~LIST-TYPE-SPECIFIERS-HIERARCHY~ has expanded your awareness.
+    ~TYPE-COERCION~ has expanded your awareness.
+    ~ATOMS-ARE-ANYTHING-THATS-NOT-A-CONS~ has expanded your awareness.
+    ~FUNCTIONP~ has expanded your awareness.
+    ~OTHER-TYPE-PREDICATES~ has expanded your awareness.
+    ~GUESS-THAT-TYPE~ has expanded your awareness.
+
+* Thinking about CLOS
+    ~DEFCLASS~ has expanded your awareness.
+    ~ACCESSORS~ has expanded your awareness.
+    ~INITARGS~ has expanded your awareness.
+    ~INHERITANCE~ has expanded your awareness.
+    ~MULTIPLE-INHERITANCE~ has expanded your awareness.
+    ~GREETING-CHATBOT~ has expanded your awareness.
+    ~STEREOTYPES~ has expanded your awareness.
+
+* Thinking about STD-METHOD-COMB
+    ~DEFMETHOD-AFTER~ has expanded your awareness.
+    ~LOLLIPOP~ has expanded your awareness.
+    ~COUNTDOWN~ has expanded your awareness.
+    ~MULTIPLE-METHODS~ has expanded your awareness.
+    ~STANDARD-METHOD-COMBINATION-ORDER~ has expanded your awareness.
+    ~SALARY-AT-COMPANY-A~ has expanded your awareness.
+    ~SALARY-AT-COMPANY-B~ has expanded your awareness.
+
+* Thinking about CONDITION-HANDLERS
+    ~TYPE-HIERARCHY~ has expanded your awareness.
+    ~HANDLER-BIND~ has expanded your awareness.
+    ~HANDLER-ORDER~ has expanded your awareness.
+    ~MULTIPLE-HANDLER-BINDS~ has expanded your awareness.
+    ~SAME-HANDLER~ has expanded your awareness.
+    ~HANDLER-TYPES~ has expanded your awareness.
+    ~HANDLER-TRANSFER-OF-CONTROL~ has expanded your awareness.
+    ~HANDLER-CASE~ has expanded your awareness.
+    ~HANDLER-CASE-ORDER~ has expanded your awareness.
+    ~HANDLER-CASE-TYPE~ has expanded your awareness.
+    ~ERROR-SIGNALING~ has expanded your awareness.
+    ~ERROR-SIGNALING-HANDLER-CASE~ has expanded your awareness.
+    ~ACCESSORS-DIVISION-BY-ZERO~ has expanded your awareness.
+    ~ACCESSORS-TYPE-ERROR~ has expanded your awareness.
+    ~LOG-LINE-TYPE-ERRORS~ has expanded your awareness.
+
+* Thinking about TRIANGLE-PROJECT
+    ~EQUILATERAL-TRIANGLES~ has expanded your awareness.
+    ~ISOSCELES-TRIANGLES~ has expanded your awareness.
+    ~SCALENE-TRIANGLES~ has expanded your awareness.
+    ~ILLEGAL-TRIANGLES~ has expanded your awareness.
+
+* Thinking about DICE-PROJECT
+    ~MAKE-DICE-SET~ has expanded your awareness.
+    ~DICE-ARE-SIX-SIDED~ has expanded your awareness.
+    ~DICE-VALUES-DO-NOT-CHANGE-WITHOUT-ROLLING~ has expanded your awareness.
+    ~ROLL-RETURNS-NEW-DICE-VALUES~ has expanded your awareness.
+    ~DICE-VALUES-SHOULD-CHANGE-BETWEEN-ROLLING~ has expanded your awareness.
+    ~DIFFERENT-DICE-SETS-HAVE-DIFFERENT-VALUES~ has expanded your awareness.
+    ~DIFFERENT-NUMBERS-OF-DICE~ has expanded your awareness.
+    ~JUNK-AS-DICE-COUNT~ has expanded your awareness.
+
+* Thinking about BACKQUOTE
+    ~BACKQUOTE-BASICS~ has expanded your awareness.
+    ~BACKQUOTE-FORMS~ has expanded your awareness.
+    ~NUMBERS-AND-WORDS~ has expanded your awareness.
+    ~SPLICING~ has expanded your awareness.
+
+* Thinking about MACROS
+    ~MY-AND~ has expanded your awareness.
+    ~VARIABLE-CAPTURE~ has expanded your awareness.
+    ~MULTIPLE-EVALUATION~ has expanded your awareness.
+    ~WRONG-EVALUATION-ORDER~ has expanded your awareness.
+    ~FOR~ has expanded your awareness.
